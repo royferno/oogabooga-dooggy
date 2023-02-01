@@ -10,7 +10,7 @@ local Window = Rayfield:CreateWindow({
 	LoadingSubtitle = "roy",
 	ConfigurationSaving = {
 		Enabled = true,
-		FolderName = nil,
+		FolderName = LagScript,
 		FileName = "fagtard"
 	},
         Discord = {
@@ -39,10 +39,10 @@ Rayfield:Notify({
 
 -- Tabs
 
-local AutoLag = Window:CreateTab("Lag", 11978018466) 
-local LagTab = Window:CreateTab("Auto Lag", 11981714015) 
-local Info = Window:CreateTab("Info", 11981695214) 
-local Presets = Window:CreateTab("Presets", 11981703022) 
+local AutoLag = Window:CreateTab("Fuck", 11978018466) 
+local LagTab = Window:CreateTab("Ur", 11981714015) 
+local Info = Window:CreateTab("Mom", 11981695214) 
+local Presets = Window:CreateTab("Bitch", 11981703022) 
 
 -- AutoLag
 
