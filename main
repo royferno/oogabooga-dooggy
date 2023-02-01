@@ -198,7 +198,7 @@ local Slider4 = AutoLag:CreateSlider({
 
 -- Info
 
-local Paragraph = Info:CreateParagraph({Title = "Settings", Content = "Just don't go above like 3 packets and you'll be fine, better to stay on 1 packet tho."})
+local Paragraph = Info:CreateParagraph({Title = "Settings", Content = "YESSSIR GET THOSE LB UNITS"})
 --[[
 local Button = Info:CreateButton({
 	Name = "Apply these settings",
@@ -210,8 +210,8 @@ local Button = Info:CreateButton({
 	end,
 })
 ]]
-Paragraph = Info:CreateParagraph({Title = "Beta", Content = "This script is in beta and purely made for the rush of dopamine I get for actually finishing something on-time. If it doesn't work how you expect, blame adhd."})
-Paragraph = Info:CreateParagraph({Title = "Warning", Content = "It's generally not a good idea to go past 1 packet on the packet rate or 250 on packet impact. Make sure to either use the default preset or find a preset that works well for you."})
+Paragraph = Info:CreateParagraph({Title = "YURRR", Content = "IM TOO GOOD AT THIS BITCH."})
+Paragraph = Info:CreateParagraph({Title = "Warning", Content = "SIKE... NO WARNING TOO GODO AT THIS."})
 
 -- Presets
 
