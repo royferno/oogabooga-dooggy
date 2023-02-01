@@ -215,7 +215,7 @@ Paragraph = Info:CreateParagraph({Title = "Warning", Content = "It's generally n
 
 -- Presets
 
-local Label = Presets:CreateLabel("Coming soon!")
+local Label = Presets:CreateLabel("Shit Aint Ever Coming")
 
 -- Actual auto lag 
 
