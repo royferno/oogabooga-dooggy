@@ -186,7 +186,7 @@ local Slider3 = AutoLag:CreateSlider({
 })
 local Slider4 = AutoLag:CreateSlider({
 	Name = "How Many Cocks Per Second?",
-	Range = {0.1, 5},
+	Range = {0.1, 6},
 	Increment = 0.1,
 	Suffix = "Seconds",
 	CurrentValue = 0.7,
